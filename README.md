@@ -255,8 +255,8 @@ print(f"Batch processing completed, processed {len(image_files)} images.")
 This project is based on the following open-source models:
 
 - RAM (Recognize Anything Model): [https://github.com/xinyu1205/recognize-anything](https://github.com/xinyu1205/recognize-anything)
-- Nanoowl(Open-Vocabulary Object Localization): [https://github.com/NVIDIA/nanoowl](https://github.com/NVIDIA/nanoowl)
-- Nanosam(Segment Anything Model): [https://github.com/NVIDIA/nanosam](https://github.com/NVIDIA/nanosam)
+- Nanoowl(Open-Vocabulary Object Localization): [nanoowl](https://github.com/NVIDIA-AI-IOT/nanoowl))
+- Nanosam(Segment Anything Model): [nanosam](https://github.com/NVIDIA-AI-IOT/nanosam))
 
 Thanks for the contributions of these excellent projects.
 
